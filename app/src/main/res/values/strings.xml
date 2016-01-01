@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MyTodo</string>
+
+    <string name="itemCreateTodo">Create new Todo</string>
+
+    <string name="lblTodoTitle">Title:</string>
+    <string name="lblTodoPriority">Priority:</string>
+    <string name="lblTodoDueDate">Due Date:</string>
+    <string name="lblTodoDescription">Description:</string>
+
+    <string name="btnOk">Ok</string>
+    <string name="btnCancel">Cancel</string>
+
+</resources>
